@@ -3,7 +3,7 @@
 }
 
 .container {
-    height: 380px;
+    padding-top: 120px;
 }
 
 #my-project div div {
@@ -99,3 +99,6 @@ img:hover {
     width: 130%;
 }
 
+.row div {
+    margin-top: 20px;
+}
